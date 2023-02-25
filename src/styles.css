@@ -1,0 +1,17 @@
+.isDone {
+    text-decoration: line-through;
+  }
+.sheet {
+    height: 400px;
+    width: 300px;
+    border:1px solid black;
+}
+.subjects {
+  padding:0px 20px;
+  float: right;
+  flex: left;
+}
+.inputfield {
+  margin:5px;
+  padding:5px;
+}
